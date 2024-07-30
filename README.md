@@ -1,0 +1,1 @@
+# indicadorsuperganho.pro
